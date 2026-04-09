@@ -1,4 +1,4 @@
-# Full Stack Task Manager
+# Task Manager
 
 A lightweight Task Manager built with React (Vite) and Node.js (Express), designed to fulfill the core requirements of the technical assessment.
 
